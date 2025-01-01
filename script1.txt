@@ -1,0 +1,3 @@
+1.run composer update
+2.copy ENV and database changes to ecommerce
+3.php artisan migrate
